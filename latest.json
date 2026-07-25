@@ -1,0 +1,14 @@
+{
+  "version": "1.0.4",
+  "notes": "test auto-update",
+  "pub_date": "2026-07-24T22:12:02.208Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSllzbHNSdXlrTmFMd3M0WnRMb0RuWmdnTUdzRWVrN21Cc1IrWFNZUnJITlJjQnh1NHc3azRsVWtLaml6ZHpBd3ZFVEdESDg1ZHp4TmVPMlF5ZXBWVXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTMxMTIyCWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuNF94NjQtc2V0dXAubnNpcy56aXAKM1ZMOThDQ2dMYkpPSGc4cHlhVktMU2FycGIvRjY4V2hyeTIzSFpWaTUvRW5aejVnYVhkS2s0STJwU0R4QjlFaThhTU1XdUl2VWM3ZDJiNmtTS0w0QUE9PQo=",
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.4/AMH-Contr%C3%B4le_1.0.4_x64-setup.nsis.zip"
+    },
+    "android": {
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.4/AMH-Controle_1.0.4.apk"
+    }
+  }
+}
