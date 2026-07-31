@@ -1,14 +1,14 @@
 {
-  "version": "1.0.6",
-  "notes": "Mise a jour base de donnees amh_controle_v2 + page historique masquee pour admin",
-  "pub_date": "2026-07-29T16:16:50.094Z",
+  "version": "1.0.7",
+  "notes": "Export Excel: colonnes L/W/K valeur corrigée unique + SEMAC rapport de vérification",
+  "pub_date": "2026-07-31T23:43:48.141Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSlFuRE90KzVCME5EZGUyRDhSQnBQVStlSjBLdllGQ1RMYm1Oem1qQjR1bmU1UmtWMXlaUlk4eDYvQk5PcDBhd1JIUVJRaGpsMEM0TURIQ3I0Z0tKaVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzQxODEwCWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuNl94NjQtc2V0dXAubnNpcy56aXAKekx3amNGWTJzaVkvSGtLR0pBd2JjUjBhYmRWTmlJU2NWNGp4MEhZcGxidENhU3BPKzRRaEhYd21ETzhrbmQxNjBvR2lnaVordUJmaU9rNTBuYUs4Q1E9PQo=",
-      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.6/AMH-Contr%C3%B4le_1.0.6_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSlVpWXEyS2dSSkM1blowQUMwZHVZZVhYR0paMnRyNTdPOXFsYitTazJVSmlZZ0VDREJPUXY0aG1pdGNXOW5naUJ0dXk1cFN3blZ4aDhCVzZMc0VmdkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTQxNDI4CWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuN194NjQtc2V0dXAubnNpcy56aXAKRTJGeDhsWUl1SG9NK0tJQXVteEEvbmdkNlZINkhhMDNFSTBVL09rYi9zOW15VlhURFVOV0M3RVFGd01Vdk9iSENlTE5RcVBlUmxTcjlRa1VkR3VIQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.7/AMH-Contr%C3%B4le_1.0.7_x64-setup.nsis.zip"
     },
     "android": {
-      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.6/AMH-Controle_1.0.6.apk"
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.7/AMH-Controle_1.0.7.apk"
     }
   }
 }
