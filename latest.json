@@ -1,15 +1,15 @@
 {
-  "version": "1.0.12",
-  "notes": "Test release 1.0.12",
-  "pub_date": "2026-08-01T04:06:52.778Z",
+  "version": "1.0.13",
+  "notes": "Corrections tests de vitesse APK",
+  "pub_date": "2026-08-01T18:05:16.535Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSmFibkgwbFFyYjlDdDFpZldOa0FhWitkeU5oenJTd0VXTU1WTi9GblF5cU9FZUZkYTNZanlUYU5zRnZtWU5XVExjMXkzbzR1Tm14RVJVNG5ZUitrZ1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTU3MjEyCWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuMTJfeDY0LXNldHVwLm5zaXMuemlwCmRza2xySzNCQnZHdkE5WW5RTytzNCs3ZGllaWpUcGJQdTlYdWRpZ2hVUkdLUERMcWpaVktsNWtINEc0aExyVXZZeW5ZYnRHZXlWV3ZPTkt5bFN0VENnPT0K",
-      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.12/AMH-Contr%C3%B4le_1.0.12_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSlE2ZGVZVlZmTzRVeFVQdVNDNlBpVFJKS3FIUU81dERDd1BvTkREK3RVcll3YkNrWmNmWmtkd3ZVNXMyYjcrSFFoVW1UR3Vxd0NvSVZMenFGN041aUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjA3NTEzCWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuMTNfeDY0LXNldHVwLm5zaXMuemlwClpVdmx5QW9qNjFxdk9TdS9FNnpkY0RScnpETERBZm10dzJOZlNqOFE5R25rc3MyMTVYZExPYUk5Z0YzeTVzdGFOem5TaVdHSEVGQTg3L0NSWDlIV0RnPT0K",
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.13/AMH-Contr%C3%B4le_1.0.13_x64-setup.nsis.zip"
     },
     "android": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSlNEbHg4UjF2NlJuQXJFcjl1R3lBMmhyVWtjVzF1eG5OOEZUQjBKSU1LeFZCcjJDU2NFVUVGWTJwbnhYT0tnVUR6cEJLcW1OMExXYXdoSXhzYktDR0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTU3OTU0CWZpbGU6QU1ILUNvbnRyb2xlXzEuMC4xMi5hcGsKbkJ2V3paQklvcXljQ2VJSUE1cit6N1JGcnJ0SytDcEhZRVoyQk9sTUdQelVaeHVwSzNBTzVmZVZXNlMwR1UyQ2NGKzVXblVTdDJ2K012elZLOFB5QUE9PQo=",
-      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.12/AMH-Controle_1.0.12.apk"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSmJFZlh2NjdwZ2FHczU2RWs1RTJDL1pFdGt3YTBUNmhzNDN1WktPZmhUaGt6SnM3SVpyZ2VPVjlYWUtOZG8rTkJ6Y24wUHJqWFJGb1ZVckUrZ2U5R3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjA3NTE2CWZpbGU6QU1ILUNvbnRyb2xlXzEuMC4xMy5hcGsKZUhZb2ZUM2pBZ1BqYStYbnROMk5SUHdoRE5VR0J3Y0ZURXJCUGxVdU5VSEx0VVQyZGd2azljWnJLZ1Z0U2k3UGYyWGM1SURTbmtsUkN3YU9Pc2V4Qnc9PQo=",
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.13/AMH-Controle_1.0.13.apk"
     }
   }
 }
