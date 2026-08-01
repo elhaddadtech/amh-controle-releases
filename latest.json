@@ -1,14 +1,14 @@
 {
-  "version": "1.0.10",
-  "notes": "Test release: update with progress bar + auto relaunch",
-  "pub_date": "2026-08-01T03:20:56.655Z",
+  "version": "1.0.11",
+  "notes": "Fix: afficher le vrai message d'erreur de la mise à jour (formatError) + logs console",
+  "pub_date": "2026-08-01T03:57:27.976Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSlJ4ZUJmUnhaTXpnZUs1cjNUUWdZOTVHdHM1K0xFdnV3dEhZVTdxUEZ0ZUZiSlJ6UWtjVlVubTd4MC9MZ2RwU3BrS0ZxODFocE1FdzMxWkRiT09IM0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTU0NDU2CWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuMTBfeDY0LXNldHVwLm5zaXMuemlwCllBOFkrbnVnRWxYWjRaOEdGdUNqK2VBQ3lnZThqOEg1M0FGQnJCUGFyRjl0L3hTNll1Rjk1NFZTL1MzWjJ0U0ZBRVY2S2ZLRmQ2cEREb3ZtTkczWUF3PT0K",
-      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.10/AMH-Contr%C3%B4le_1.0.10_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSlZYTjg4TnV6dXlsV3JZdGkweFFlUXE0bDNVSHVKZTZiMHlpS2JnSW16QnVHNWdiRThoSUY5bFZWUElVNDMySDdXMmZkZE9RTnlhdG5jTU5qYnZKTHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTU2NjQ3CWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuMTFfeDY0LXNldHVwLm5zaXMuemlwCmlZUWdNR1V5Wjl4TkJsUHFlSkd4R1RUaElrK0NzbmJtcE40M2RwOHJ1QXB1b0dMVGhkQ0czaDhWdnU4aHljN3dkZVR5NG5adUthQ3lHOEpUL1U2UkJ3PT0K",
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.11/AMH-Contr%C3%B4le_1.0.11_x64-setup.nsis.zip"
     },
     "android": {
-      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.10/AMH-Controle_1.0.10.apk"
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.11/AMH-Controle_1.0.11.apk"
     }
   }
 }
