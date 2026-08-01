@@ -1,6 +1,6 @@
 {
   "version": "1.0.12",
-  "notes": "Test release: déclencheur de mise à jour pour diagnostiquer la vraie erreur (formatError actif dans v1.0.11)",
+  "notes": "Test release 1.0.12",
   "pub_date": "2026-08-01T04:06:52.778Z",
   "platforms": {
     "windows-x86_64": {
@@ -8,6 +8,7 @@
       "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.12/AMH-Contr%C3%B4le_1.0.12_x64-setup.nsis.zip"
     },
     "android": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSlNEbHg4UjF2NlJuQXJFcjl1R3lBMmhyVWtjVzF1eG5OOEZUQjBKSU1LeFZCcjJDU2NFVUVGWTJwbnhYT0tnVUR6cEJLcW1OMExXYXdoSXhzYktDR0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTU3OTU0CWZpbGU6QU1ILUNvbnRyb2xlXzEuMC4xMi5hcGsKbkJ2V3paQklvcXljQ2VJSUE1cit6N1JGcnJ0SytDcEhZRVoyQk9sTUdQelVaeHVwSzNBTzVmZVZXNlMwR1UyQ2NGKzVXblVTdDJ2K012elZLOFB5QUE9PQo=",
       "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.12/AMH-Controle_1.0.12.apk"
     }
   }
