@@ -4,8 +4,8 @@
   "pub_date": "2026-08-01T02:22:45.097Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSlkzK054eUhEQzVlTnNZdWgvbVgxQzRTeE9yeUpqTzNmVmFUYVdGNWVFblpJdVdMNmlsQUJ6V2hkR0xxbU9CcW1wQmtQVXAzZTk0QUF0WjZLVGRsNVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTUwOTY0CWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuM194NjQtc2V0dXAubnNpcy56aXAKY3dscVRaU2NlenhQRFZjZWpqTEVpaFQvOWNENms2dGpZc2RkWVc0WHc5bU80S3NEandZQitRRzRUVVZjNTd1ck9ycTlwUEt3a1JtNHlqUTEvRmNWQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.9/AMH-Contr%C3%B4le_1.0.3_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSmExT3NuandmMGdwOFhSbGxBcFk3YUxXN1Iwa2hScjlMR0d0M3lpdHd4enRVNlh3emV3YmRnK3hpOFZzNGZpSmVFN0tvUnBBTFpPM3NnR29TZFFwQ0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTUxNDMwCWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuOV94NjQtc2V0dXAubnNpcy56aXAKU0phT0RXOEsrOWpnN2xyblN1bG1HK2ZObVI1QWNoRnhLRU5lTXVRY3h4T0hTM2MvSlpmb1JRUC9tVlFEc2ZXQmlrYWU0U0tCL3c4UWVYUjhYUDNwQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.9/AMH-Contr%C3%B4le_1.0.9_x64-setup.nsis.zip"
     },
     "android": {
       "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.9/AMH-Controle_1.0.9.apk"
