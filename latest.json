@@ -1,14 +1,14 @@
 {
-  "version": "1.0.8",
-  "notes": "Affichage version sur page login + VP certificat Conforme par défaut",
-  "pub_date": "2026-08-01T01:52:14.630Z",
+  "version": "1.0.9",
+  "notes": "Mise a jour forcee avec barre de progression + installation automatique (Windows et Android)",
+  "pub_date": "2026-08-01T02:22:45.097Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSldIZEp3eDExUzB3WWoxL2tVdlNRSU5QNlY0SzE2S0VyMWlWR1JKdUN4cHlDODlhcjlUcThpYWZncncwVWNMQ0wwQTV2c0JTWThvNVU2MUYwMXcxZWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTQ5MTM0CWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuOF94NjQtc2V0dXAubnNpcy56aXAKQmJKaTF3Rk4xSEtDTW5HNi9HZUZodmFtSzBrRjNjMVF6YWZRMnpKazJ1NjUrUk0xa3h0SG5VSkZrZGtla3d2SnA5Y1pHOHhIRjZMVjJIMGFJSld5QVE9PQo=",
-      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.8/AMH-Contr%C3%B4le_1.0.8_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSjZJVFN5K1FpSlkzK054eUhEQzVlTnNZdWgvbVgxQzRTeE9yeUpqTzNmVmFUYVdGNWVFblpJdVdMNmlsQUJ6V2hkR0xxbU9CcW1wQmtQVXAzZTk0QUF0WjZLVGRsNVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTUwOTY0CWZpbGU6QU1ILUNvbnRyw7RsZV8xLjAuM194NjQtc2V0dXAubnNpcy56aXAKY3dscVRaU2NlenhQRFZjZWpqTEVpaFQvOWNENms2dGpZc2RkWVc0WHc5bU80S3NEandZQitRRzRUVVZjNTd1ck9ycTlwUEt3a1JtNHlqUTEvRmNWQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.9/AMH-Contr%C3%B4le_1.0.3_x64-setup.nsis.zip"
     },
     "android": {
-      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.8/AMH-Controle_1.0.8.apk"
+      "url": "https://raw.githubusercontent.com/elhaddadtech/amh-controle-releases/main/v1.0.9/AMH-Controle_1.0.9.apk"
     }
   }
 }
